@@ -1,8 +1,3 @@
-## PERSONAL BIOGRAPHY
-- My name is Oscarkyamuwendo
-- I am a Health Informatics student at European Compass Rottal Inn doing my first Semester
-- I am lectured by Proffessor Domink
-
 ## BLOG
 ## THREATS OF ARTIFICIAL INTELIGENCE
 (AI) continues to advance, there are several potential threats and challenges that may arise in the future. It's important to note that while AI has the potential to bring about significant benefits, it also raises ethical, societal, and security concerns. Here are some key areas of concern:
