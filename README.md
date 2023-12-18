@@ -1,5 +1,5 @@
 ## BLOGS
-## 1. THREATS OF ARTIFICIAL INTELIGENCE
+# 1. THREATS OF ARTIFICIAL INTELIGENCE
 (AI) continues to advance, there are several potential threats and challenges that may arise in the future. It's important to note that while AI has the potential to bring about significant benefits, it also raises ethical, societal, and security concerns. Here are some key areas of concern:
 
 ### Job Displacement: 
@@ -16,9 +16,9 @@ AI systems can inherit biases present in the data used to train them. This can l
 ### Security Risks: 
   As AI systems become more integrated into critical infrastructure, there is an increased risk of cyberattacks. Malicious actors could exploit vulnerabilities in AI systems to cause harm, manipulate information, or disrupt essential services.
                                                                             
-                                                                              #### source chatgpt
+### source chatgpt
 
-## 2. WHAT ARTIFICIAL INTELLEGENCE CAN'T DO?
+# 2. WHAT ARTIFICIAL INTELLEGENCE CAN'T DO?
 - ### Counselling
 ![image](https://github.com/23W-GBAC/Oscarkyamuwendo/assets/148862985/056e9f87-abf0-485b-90d0-10072ca2107d)
 The counseling and therapy field has jobs that can’t be replaced by AI, and for good reasons. Roles that involve providing mental health support, counseling, and therapy require empathy, active listening, and understanding of human emotions. The ability to establish a trusting relationship, adapt to individual needs, and offer personalized guidance makes these professions highly dependent on human interaction.
@@ -48,6 +48,48 @@ ust like healthcare, the craze of AI in sports is booming. But athletics is one 
 ## Conclusion
 With pink slips happening and the news flashes of AI threatening the job landscape, it is fair to ruminate on the employment aspect of the future. There are jobs that AI can’t replace, and then there are jobs that are budding out of this technology. It is important to note that the impact on the job market is uncertain and depends on various factors such as the pace of AI adoption, technological advancements, societal responses, and policy interventions. Nonetheless, AI is here to offer assistance to humans, make our lives easier, and not take over our jobs.
 
-This presents an opportunity to upskill or find a new career path in the field of AI. If this sounds like you, then enroll yourself in a certification course like the AI & ML BlackBelt Plus program, which prepares tomorrow’s experts by providing a real-world learning environment and personalized training. A course like this not only helps you amp up your skill game but also boosts your chances of landing the most lucrative job!
+This presents an opportunity to upskill or find a new career path in the field of AI. If this sounds like you, then enroll yourself in a certification course like the AI & ML BlackBelt Plus program, which prepares tomorrow’s experts by providing a real-world learning environment and personalized training. A course like this not only helps you amp up your skill game but also boosts your chances of landing.
+### from Analytics Vidya
 
-                                                                                            ### from Analytics Vidya
+# 3. AUTOMATION IN THE HUMAN BODY
+Automation in the context of the human body typically refers to the natural and involuntary processes that occur without conscious control. These processes are essential for maintaining homeostasis and ensuring the proper functioning of various physiological systems. Here are some examples of automation in the human body:
+
+- ### Autonomic Nervous System (ANS):
+  The ANS regulates involuntary bodily functions, such as heart rate, blood pressure, digestion, respiratory rate, and pupillary response. It consists of two branches: the sympathetic nervous system (fight or flight) and the parasympathetic nervous system (rest and digest). These systems work automatically to maintain internal balance.
+
+- ### Endocrine System:
+  Hormones are chemical messengers produced by glands in the endocrine system. They regulate various physiological functions, including metabolism, growth, and reproductive processes. Hormones are released into the bloodstream and act on target organs to maintain internal balance.
+
+- ### Respiratory System:
+  Breathing is an automatic process controlled by the respiratory center in the brainstem. It adjusts the rate and depth of breathing in response to changing oxygen and carbon dioxide levels in the blood.
+
+- ### Cardiovascular System:
+  The heart functions involuntarily to pump blood throughout the body. The cardiac conduction system controls the heart rate and rhythm without conscious effort.
+
+- ### Digestive System:
+  Peristalsis, the involuntary muscular contractions of the digestive tract, moves food through the gastrointestinal system. Enzymes and digestive juices are released automatically to break down and absorb nutrients.
+
+- ### Reflexes:
+  Reflex actions are rapid, involuntary responses to stimuli. For example, the withdrawal reflex causes a person to pull their hand away from a hot surface without conscious thought.
+
+- ### Circadian Rhythms:
+The body's internal clock regulates sleep-wake cycles, hormone secretion, and other physiological processes. The suprachiasmatic nucleus in the brain coordinates these circadian rhythms.
+
+While these processes are considered automatic, they can be influenced by external factors, conscious efforts, and certain medical conditions. For instance, practices like meditation can impact the autonomic nervous system, and conditions such as biofeedback demonstrate the potential for conscious control over some bodily functions. Advances in medical technology and research may also lead to new ways of interacting with and influencing the body's automation.
+### In summary ( matching bodily parts' finctions with that for machines)
+#### 1. Sight, taste, smell, touch – 
+Vision, pressure, temperature, flow, photoelectric, inductive, capacitive, position/distance measurement sensors
+#### 2. Listening/reading – 
+Vibration sensors, RFID tag readers
+#### 3. Nervous system – 
+Control network, cables, connectors
+#### 4. Brain – 
+Controller, PLC
+#### 5. Muscles – 
+Valves, drives, motors
+#### 6. Voice –  
+audio signaling devices, numerical output devices (RFID data to tag)
+#### 7. Body language (visual signals) – 
+stack lights, display screens, indicator lights, panel meters
+
+### from chat gpt
