@@ -1,5 +1,15 @@
+# **AUTOMATION PROJECT**
+
+**This project consist of the journey l went through from scratch to place of producing content that looks more professional and ability to set my machine work with github**
+
+## Table of Contents
+ - **[PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS](#installation)**
+ - **[PROBLEM 2: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL](#installation)**
+ - **[PROBLEM 3: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB](#usage)**
+
+
 # POST 1 
-## PROBLEM: OVER REPEATION OF WRITING FILE PATHS
+## **PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS**
    I had a problem of writing file paths which some consisted of long filenames like repositories and this could make me take long time to access a file in a sub folder from other many sub folders 
 
 
@@ -11,10 +21,10 @@ I had to initiate auto completion of file names on my terminal on my mac
 To install Zsh (Z Shell), you can follow these general steps. The process might vary slightly depending on 
      your operating system.
 
-- For Linux: Ubuntu/Debian-based systems:
+- **For Linux: Ubuntu/Debian-based systems:**
 		Open a terminal.
 
-Run the following command to install Zsh:
+**Run the following command to install Zsh:**
 
 		sudo apt-get update
 		sudo apt-get install zsh
@@ -22,12 +32,12 @@ Run the following command to install Zsh:
 After installation, you can start Zsh by typing zsh and pressing Enter.
 
 	
-- For macOS:
+- **For macOS:**
 Zsh is pre-installed on macOS. You can check the installed version by typing zsh --version in the terminal.
 
       To start Zsh, simply type zsh and press Enter.
 
-- For Windows:
+- **For Windows:**
 Using Windows Subsystem for Linux (WSL):
 If you don't have WSL installed, follow the instructions on the official Microsoft documentation to set up WSL.
 
@@ -46,7 +56,7 @@ During the installation process, make sure to select the zsh package from the pa
 
 After installation, you can start Zsh by running the Cygwin terminal and typing zsh and pressing Enter.
 
-Customization (Optional):
+**Customization (Optional):**
 	Once Zsh is installed, you may want to customize it further using frameworks like Oh My Zsh or Prezto.
         These frameworks provide additional features, themes, and plugins. You can find installation instructions 
 	on their respective GitHub repositories:
@@ -69,8 +79,6 @@ Keep in mind that the installation steps may change, so it's always a good idea 
 ### STEP 4. Final step
 At last l closed the terminal and opened it again then next was magic happening on my termminal where l got suggestipns of 						commands which had written before and this helped me to save time l would spend on typing 
 
- 
- 
  
  # POST 2
  ## PROBLEM: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL
@@ -96,7 +104,7 @@ Once Homebrew is installed, you can install Vim with the following command:
 After the installation is complete, you can run Vim by typing vim in the Terminal.
 
 ## BASIC COMMANDS OF VIM THAT EASED MY CONTENT CREATION
-Normal Mode:
+**Normal Mode:**
 	
 Default mode for navigation and manipulation.
 	- Press Esc to enter Normal Mode.
@@ -107,19 +115,18 @@ Used for inserting or editing text.
 	Visual Mode:
 		Used for selecting and manipulating text.
 	Press v in Normal Mode to enter Visual Mode.
-Navigation:
+**Navigation:**
 	Move cursor:
-	
 	h: Move left
 	j: Move down
 	k: Move up
 	l: Move right
-	Word-wise navigation:
+**Word-wise navigation:**
 	
 	w: Move to the beginning of the next word
 	b: Move to the beginning of the previous word
 	e: Move to the end of the current word
-	Line-wise navigation:
+**Line-wise navigation:**
 	
 	0: Move to the beginning of the line
 	^: Move to the first non-blank character of the line
@@ -128,7 +135,7 @@ Navigation:
 	gg: Move to the beginning of the file
 	:<line_number>: Move to a specific line number
 	Editing:
-Inserting text:
+**Inserting text:**
 	
 	Press i to enter Insert Mode before the cursor
 	Press I to enter Insert Mode at the beginning of the line
@@ -136,7 +143,7 @@ Inserting text:
 	Press A to enter Insert Mode at the end of the line
 	Press o to open a new line below the current line
 	Press O to open a new line above the current line
-	Deleting text:
+**Deleting text:**
 	
 	x: Delete the character under the cursor
 	dd: Delete the entire line
@@ -147,7 +154,7 @@ Inserting text:
 	Save:
 	
 	:w: Save changes
-Quit:
+**Quit:**
 	
 	:q: Quit (if no changes were made)
 	:q!: Quit without saving changes
@@ -158,23 +165,22 @@ Quit:
 	V: Enter Visual Mode (line-wise)
 	Ctrl + v: Enter Visual Mode (block-wise)
 	Copy and Paste:
-	Copy (yank):
+**Copy (yank):**
 	
 	yy: Copy the current line
 	y$: Copy from the cursor position to the end of the line
 	yw: Copy from the cursor position to the end of the word
-	Cut (delete):
+**Cut (delete):**
 	
 	dd: Cut (delete) the current line
 	dw: Cut (delete) from the cursor position to the end of the word
-	Paste:
+**Paste:**
 	
 	p: Paste after the cursor
 	P: Paste before the cursor
 
  
  # POST 3
- 
  ## PROBLEM: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB
 I encountered a challenge with laptop when trying to add/update text on github from my local repostory  ussing the terminal.
 
@@ -188,13 +194,14 @@ In summary,l discovered that l had to first create a public key locally on my ma
 
 To create a public key using the terminal, you can use the ssh-keygen command. Here are the steps:
 
-Open your terminal.
+**Open your terminal.**
 
 Use the following command to generate a new SSH key pair. You will be prompted to provide a location for the key and an optional passphrase.
 
 	bash
 	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-Explanation of options:
+
+**Explanation of options:**
 
 	-t rsa: Specifies the type of key to create (RSA).
 	-b 4096: Specifies the number of bits in the key (4096 bits is recommended for stronger security).
@@ -203,7 +210,7 @@ Press Enter to accept the default file location (usually ~/.ssh/id_rsa) or provi
 
 If you want to add a passphrase for extra security, enter a passphrase when prompted. You can also leave it blank if you don't want a passphrase.
 
-Note: Even if you leave it blank, it's generally a good idea to use a passphrase for added security.
+**Note:** Even if you leave it blank, it's generally a good idea to use a passphrase for added security.
 
 Once the key pair is generated, you'll see a message indicating the location of the public and private keys.
 
@@ -214,7 +221,7 @@ Once the key pair is generated, you'll see a message indicating the location of 
 
 Now you have successfully created an SSH key pair. The public key is stored in the file with the .pub extension (e.g., id_rsa.pub). You can share this public key with services like GitHub, GitLab, or others where you need to authenticate using SSH keys. The private key (id_rsa) should be kept secure and not shared.
 
-To display the content of your public key, you can use the following command:
+**To display the content of your public key, you can use the following command:**
 
 	bash
 	
@@ -222,12 +229,12 @@ To display the content of your public key, you can use the following command:
 Copy the output and use it wherever you need to add your public key.
 
 
-### STEP 2 ( In this step, l got a copy of the repostory onto my computer by carrying ou git clone)
+### **STEP 2 ( In this step, l got a copy of the repostory onto my computer by carrying ou git clone)**
 
 
 To clone a repository from GitHub (or any Git repository) using the terminal, follow these steps:
 
-Open your terminal.
+**Open your terminal.**
 
 Navigate to the directory where you want to clone the repository. For example:
 
@@ -236,17 +243,17 @@ Navigate to the directory where you want to clone the repository. For example:
 	cd /path/to/destination/directory
 Get the clone URL from the GitHub repository, but it is better to use SSH URL
 
-If you are using SSH, you can use the SSH URL:
+**If you are using SSH, you can use the SSH URL:**
 
 	bash
 	
 	git clone git@github.com:username/repository.git
  
- ### STEP 3 ( This is a step where we now send/update our content to the github account )
+ ### **STEP 3 ( This is a step where we now send/update our content to the github account )**
 
  To send content from a cloned repository to GitHub, you'll typically follow these steps:
 
-Navigate to the Local Repository:
+**Navigate to the Local Repository:**
 Open your terminal and navigate to the local directory of the cloned Git repository.
 
 	bash
@@ -266,6 +273,7 @@ If you've made changes to your files, add them to the staging area and commit th
 	git add .
 	git commit -m "Your commit message here"
 	Push Changes to GitHub:
+
 Finally, push your changes to the GitHub repository. If you cloned the repository using HTTPS, you might be prompted to enter your GitHub credentials.
 
 	bash
