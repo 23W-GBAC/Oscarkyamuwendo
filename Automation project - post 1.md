@@ -3,8 +3,11 @@
 **This project consist of the journey l went through from scratch to place of producing content that looks more professional and ability to set my machine work with github**
 
 ## Table of Contents
+
  - **[PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS](#installation)**
- - **[PROBLEM 2: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL](#installation)**
+   
+ - **[PROBLEM 2: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%202.md)**
+   
  - **[PROBLEM 3: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%203.md)**
 
 
