@@ -11,7 +11,7 @@
  - **[PROBLEM 3: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%203.md)**
 
 
-# POST 1 
+# 1ST POST
 ## **PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS**
    I had a problem of writing file paths which some consisted of long filenames like repositories and this could make me take long time to access a file in a sub folder from other many sub folders 
 
