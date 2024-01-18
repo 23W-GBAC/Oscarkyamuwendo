@@ -17,7 +17,7 @@
 
 
 ## SOLUTION
-I had to initiate auto completion of file names on my terminal on my mac
+I had to initiate auto completion of file names on my terminal on my Mac.
 
 
 ### STEP 1: Install a shell and one them is ZSH SHELL
