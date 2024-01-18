@@ -32,13 +32,13 @@ To install Zsh (Z Shell), you can follow these general steps. The process might 
 		sudo apt-get update
 		sudo apt-get install zsh
 	
-After installation, you can start Zsh by typing zsh and pressing Enter
+After installation, you can start Zsh by typing zsh and pressing Enter.
 
 	
 - **For macOS:**
 Zsh is pre-installed on macOS. You can check the installed version by typing zsh --version in the terminal.
 
-      To start Zsh, simply type zsh and press Enter
+      To start Zsh, simply type zsh and press Enter.
 
 - **For Windows:**
 Using Windows Subsystem for Linux (WSL):
@@ -55,7 +55,7 @@ Run the following command to install Zsh:
 After installation, you can start Zsh by typing zsh and pressing Enter.
 
 
-During the installation process, make sure to select the zsh package from the package list.
+During the installation process, make sure to select the zsh package from the package list..
 
 After installation, you can start Zsh by running the Cygwin terminal and typing zsh and pressing Enter.
 
