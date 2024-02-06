@@ -72,7 +72,7 @@ Keep in mind that the installation steps may change, so it's always a good idea 
 	For Mac
 	brew install zsh-autosuggestions
 
-### STEP 3. Activating the auto suggestions
+### STEP 3. Activating the auto suggestions.
       
 	To activate the autosuggestions,l added the following at the end of your .zshrc
 	to open .zshrc type vim .zshrc in your terminal
