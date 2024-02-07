@@ -1,7 +1,7 @@
 # **POST 4**
 
-## **PROBLEM: ENGAGING OTHERS DEVELOPERS TO MAKE SUGGESTION AND ADVICE OVER MY CONTENT THROUGH PULL REQUESTS AND FORKS**
-    This is my last post, it is not by a mistake because indeed it has not been that simple for me to establish pull requests so that other developers can engage ange comment about my content,\
+## **PROBLEM: ENGAGING OTHER DEVELOPERS TO PROVIDE SUGGESTIONS AND ADVICE THROUGH PULL REQUESTS AND FORKS.**
+    This is my last post, it is not by a mistake because indeed it has not been that simple for me to establish pull requests so that other developers can engage and comment about my content,\
     l indeed though its just a simple thing but the best part of the story is that i was finnaly able to fix it. 
 ## SOLUTION
   	
