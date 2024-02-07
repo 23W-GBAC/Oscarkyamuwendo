@@ -1,7 +1,7 @@
 # **POST 3**
 
 ## **PROBLEM: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB**
-I encountered a challenge with laptop when trying to add/update text on github from my local repostory  ussing the terminal.
+I encountered a challenge with laptop when trying to add/update text on github from my local repostory using the terminal.
 
 ## SOLUTION
   	
@@ -11,7 +11,7 @@ In summary, l discovered that l had to first create a public key locally on my m
 ### STEP 1 ( How l created a public key)
 
 
-To create a public key using the terminal, you can use the ssh-keygen command. Here are the steps:
+To create a public key using the terminal, you can use the ssh-key gen command. Here are the steps:
 
 **Open your terminal.**
 
@@ -79,7 +79,7 @@ Open your terminal and navigate to the local directory of the cloned Git reposit
 	
 	cd /path/to/cloned/repository
 	Check the Status:
-It's a good practice to check the status of your local repository to see which files have been modified, added, or deleted.
+It is a good practice to check the status of your local repository to see which files have been modified, added, or deleted.
 
 	bash
 	
@@ -98,6 +98,5 @@ Finally, push your changes to the GitHub repository. If you cloned the repositor
 	bash
 
 	git push origin master
- Then you are able to find your content on git hub
-	 
+Then you can locate your content on git hub.	 
 	
