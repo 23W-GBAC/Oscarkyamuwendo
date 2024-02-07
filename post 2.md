@@ -1,6 +1,6 @@
  # POST 2
- ## **PROBLEM: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL**
-I had to add text in my blog several times but without updating it daily my main blog at the github account
+ ## **PROBLEM: ADDING TEXT TO MY BLOG REGULARLY USING THE TERMINAL.**
+I often needed to add text to my blog, but I didn't update my main GitHub blog daily.
 
 ## SOLUTION.
   	I used VIM as a tool to help me edit text in my blog and save it locally on my machine several times using 

@@ -1,10 +1,10 @@
 # **AUTOMATION PROJECT**
 
-**This project consist of the journey l went through from scratch to place of producing content that looks more professional and ability to set my machine work with github**
+**This project consists of the journey l went through from scratch to place of producing content that looks more professional and ability to set my machine work with github**
 
 ## Table of Contents
 
- - **[PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS](#installation)**
+ - **[PROBLEM 1: EXCESSIVE REPEATED WRITING OF FILE PATHS](#installation)**
    
  - **[PROBLEM 2: ADDITION OF TEXT IN BLOG CONSECUTIVELY WITH USE OF THE TERMINAL](https://github.com/23W-GBAC/Oscarkyamuwendo/blob/main/post%202.md)**
    
@@ -13,7 +13,7 @@
 
 # 1ST POST
 ## **PROBLEM 1: OVER REPEATION OF WRITING FILE PATHS**
-   I had a problem of writing file paths which some consisted of long filenames like repositories and this could make me take long time to access a file in a sub folder from other many sub folders 
+   I encountered a problem with writing file paths, some of which consisted of long filenames, such as those in repositories and this could make me take long time to access a file in a sub folder from other many sub folders 
 
 
 ## SOLUTION
@@ -80,7 +80,7 @@ Keep in mind that the installation steps may change, so it's always a good idea 
        source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 ### STEP 4. Final step
-At last l closed the terminal and opened it again then next was magic happening on my termminal where l got suggestipns of 						commands which had written before and this helped me to save time l would spend on typing 
+At last l closed the terminal and opened it again then next was magic happening on my termminal where l got suggestions of 						commands which had written before and this helped me to save time l would spend on typing 
 
  
 
