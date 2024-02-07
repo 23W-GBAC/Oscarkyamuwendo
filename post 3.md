@@ -1,6 +1,6 @@
 # **POST 3**
 
-## **PROBLEM: UPDATING OF CONTENT IN THE LOCAL REPOSITORY TO THE REPOSITORY ON GITHUB**
+## **PROBLEM: UPDATING LOCAL REPOSITORY CONTENT TO GITHUB.**
 I encountered a challenge with laptop when trying to add/update text on github from my local repostory using the terminal.
 
 ## SOLUTION
